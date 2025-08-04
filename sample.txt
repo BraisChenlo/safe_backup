@@ -1,0 +1,11 @@
+Sample text to test the backup function for the redeveloped program in Rust for Secure Coding.
+
+Group 12
+- Brais Chenlo Caldelas AIBI20240538
+- Jafredd Jaimes AIBI20250043
+- Juan Diego Garnica AIBI20250107
+
+For test:
+- Special characters: !@#$%^&*()
+- Numbers: 1234567890
+- Unicode characters: café, naïve, résumé
