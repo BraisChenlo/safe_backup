@@ -20,9 +20,9 @@ Also, it should safely handle the next errors and vulnerabilities:
 To keep a record, a logfile with all the actions would be automatically generated.
 
 
-Run the program
+Run and compile the program
 - Download the program from the given repository
 - On a program like VS Code, install plugins able to read and compile Rust
 - Access the program folder using "cd" on the terminal
-- Run and compile the run using "cargo run"
+- Run and compile the program using "cargo run"
 - Enter any input that you want to test
